@@ -1,10 +1,10 @@
-BootLeaf
+Rwanda TVET Schools Map
 ========
 
-A simple, responsive template for building web mapping applications with [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), and [typeahead.js](http://twitter.github.io/typeahead.js/).
+The Map, shows all the TVET Schools in Rwanda. Its a simple, responsive map based on Bootleaf, [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), and [typeahead.js](http://twitter.github.io/typeahead.js/).
 
 ### Demo:
-http://bmcbride.github.io/bootleaf/
+http://www.wda.gov.rw/gis
 
 ### Features:
 * Fullscreen mobile-friendly map template with responsive Navbar and modal placeholders
